@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1750786089 source:c:\users\windows\documents\manga\crtical\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
