@@ -28,17 +28,4 @@ This AI system is designed to **sense** its environment (via sensors, APIs, or d
 - Health monitoring (sense vitals → alert caregiver)
 - Cybersecurity (sense suspicious traffic → block IP)
 
-## Getting Started
 
-### Prerequisites
-
-- Python 3.8+
-- Required libraries (see `requirements.txt`)
-- Hardware/API access for your sensors/actuators
-
-### Installation
-
-```bash
-git clone https://github.com/yourusername/ai-sense-act.git
-cd ai-sense-act
-pip install -r requirements.txt
